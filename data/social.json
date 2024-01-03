@@ -1,0 +1,29 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/emillennialblog"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://instagram.com/essentialmillennial"
+    },
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/essentialmillennial"
+    },
+    {
+      "name": "tiktok",
+      "icon": "fab fa-tiktok",
+      "link": "https://www.tiktok.com/@essentialmillennial"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://za.linkedin.com/company/essential-millennial"
+    }
+  ]
+}
