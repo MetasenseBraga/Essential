@@ -4,9 +4,9 @@ meta_title: "Digital Marketing Tips For Small Business"
 description: "We explain how small businesses with limited time and money can use  informed digital marketing strategies to reach large audiences and increase sales."
 date: 2023-09-01T09:00:00Z
 image: "/images/digital-marketing-tips.png"
-categories: ["SMEs", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["SEO", "digital marketing", "small businesses"]
+tags: ["SEO & Website Optimization", "Digital Marketing", "Small Business"]
 draft: false
 ---
 

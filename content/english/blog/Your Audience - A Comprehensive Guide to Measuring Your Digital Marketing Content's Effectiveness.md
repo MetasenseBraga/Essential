@@ -4,9 +4,9 @@ meta_title: "Understanding your audience for effective digital marketing"
 description: "In this article we provide a guide to effectively measuring and understanding your target audience for your digital marketing efforts."
 date: 2023-09-16T09:00:00Z
 image: "/images/know-your-audience.png"
-categories: ["SMEs", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["social media", "Influencers", "Marketing", "Leads", "Conversions", "Sentiment", "Target"]
+tags: ["Social Media", "Influencer Marketing", "Analytics & Insights ", "Audience Targeting"]
 draft: false
 ---
 

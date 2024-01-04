@@ -4,9 +4,9 @@ meta_title: "Digital Marketing Strategy Tips For Content Creators"
 description: "Find out how to craft and effective digital marketing strategy as a content creator in this insightful blog post."
 date: 2023-09-01T09:00:00Z
 image: "/images/digital-marketing-tips-for-content-creators.png"
-categories: ["Content creators", "Digital Marketing"]
+categories: ["Content Creation", "Digital Marketing"]
 author: "Forrest Smith"
-tags: ["Know your audience", "social media", "digital marketing", "content creation"]
+tags: ["Social Media", "Digital Marketing", "Content Creation & Strategy"]
 draft: false
 ---
 Are you a content creator looking to develop and execute a successful digital marketing strategy? If so, this blog post is for you! There are a number of factors to consider when crafting a digital marketing strategy for a content creator. Below, we'll outline a few key tips to help you get started.

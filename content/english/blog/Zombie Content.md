@@ -4,9 +4,9 @@ meta_title: "Content Revival: Breathing Life into Zombie Content"
 description: "Discover the secrets to resurrecting zombie content – old, lifeless pieces that can be revived to breathe fresh life into your digital marketing strategy."
 date: 2023-10-26T10:00:00Z
 image: /images/zombie-content.png
-categories: ["Content Revival", "Digital Marketing"]
+categories: ["Content Strategy", "Digital Marketing"]
 author: "Forrest Smith"
-tags: ["ghostwriting", "content marketing", "content strategy", "zombie content", "storytelling"]
+tags: ["Content Creation & Strategy", "content strategy"]
 draft: false
 ---
 In the realm of digital marketing, there's nothing more haunting than zombie content. These are the old, lifeless pieces that once brought in audiences, but now languish in the digital graveyard. But fear not, for we hold the secrets to resurrecting these pieces, breathing fresh life into your digital marketing strategy. 

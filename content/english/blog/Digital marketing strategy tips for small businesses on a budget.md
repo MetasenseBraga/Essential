@@ -4,9 +4,9 @@ meta_title: "Affordable Digital Marketing Strategies For Small Businesses"
 description: "Digital marketing is a complicated process that requires a lot of time and money. So how can small businesses compete in the digital marketplace with a limited budget?"
 date: 2023-08-16T09:00:00Z
 image: "/images/strategies-on-a-budget.png"
-categories: ["SMEs", "Digital Marketing", "Social media", "Paid Ads"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["small business", "SEO", "blog", "influncer marketing", "email marketing"]
+tags: ["Small Business", "SEO & Website Optimization", "Influencer Marketing"]
 draft: false
 ---
 So you just started your own business, or perhaps you've been operating for a while. You truly believe in your product or service and you're backing yourself to turn this thing into a real moneymaker. You're working for yourself and you're pursuing your passions and – hopefully – you're about to achieve financial freedom and it's only a matter of time before people see the *true value* of what you have to offer.

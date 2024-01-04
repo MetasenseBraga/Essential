@@ -6,7 +6,7 @@ date: 2023-10-30T06:00:00Z
 image: "/images/behind-the-halloween-campaign.png"
 categories: ["Campaigns"]
 author: "Essential Millennial Team"
-tags: ["Halloween", "Digital Marketing", "Brand Exposure"]
+tags: ["Digital Marketing", "Brand & Branding"]
 draft: false
 ---
 Halloween isn't just about trick-or-treating; it's also an opportunity for us to demonstrate our creativity, strategic skills, and versatility in content creation. Our Halloween campaign has a strategic purpose that goes beyond spooky themes.

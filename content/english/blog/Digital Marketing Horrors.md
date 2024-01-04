@@ -5,9 +5,9 @@ description: "Explore the most horrifying digital marketing mistakes that could 
 date: 2023-10-23T09:00:00Z
 image: "/images/digital-marketing-horrors.png"
 author: Essential Millennial
-categories: ["SMEs", "Digital Marketing", "Content Strategy"]
+categories: ["Digital Marketing", "Content Strategy"]
 author: "Forrest Smith"
-tags: ["content strategy", "online presence", "blog", "content marketing"]
+tags: ["Content Creation & Strategy", "Social Media", "content marketing"]
 draft: false
 ---
 

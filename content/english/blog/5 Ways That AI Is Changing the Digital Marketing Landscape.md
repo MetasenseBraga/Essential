@@ -4,9 +4,9 @@ meta_title: "How AI Is Changing Digital Marketing "
 description: "In this articl we discuss the ever increasing important role that AI is playing in the field of digital marketing."
 date: 2023-08-16 T09:00:00Z
 image: "/images/5-AI-marketing.jpg"
-categories: ["AI", "Digital Marketing", "automation"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["social media", "digital marketing", "automation", "analytics", "AI", "sentiment"]
+tags: ["Social Media", "Digital Marketing", "AI & Automation", "Analytics & Insights"]
 draft: false
 ---
 

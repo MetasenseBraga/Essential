@@ -4,9 +4,9 @@ meta_title: "AI Disruption In Digital Content Creation"
 description: "Discover how AI is revolutionizing digital content creation while preserving the human touch. Learn actionable strategies to thrive in the AI era. Read now!"
 date: 2023-09-17T04:00:00Z
 image: "/images/embracing-AI-disruption.png"
-categories: ["AI", "Digital Marketing", "Automation"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["AI", "Content", "Strategy", "Trends", "Tools"]
+tags: ["AI & Automation", "Content Creation & Strategy", "Digital Marketing"]
 draft: false
 ---
 

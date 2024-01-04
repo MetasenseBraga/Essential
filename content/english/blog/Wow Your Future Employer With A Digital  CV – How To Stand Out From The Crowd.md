@@ -4,9 +4,9 @@ meta_title: "Stand out as a job-seeker with a digital CV"
 description: "Finding employment in today's competitive job market is tough! But here's how you can beat the competition... with a digital CV"
 date: 2023-09-09T09:00:00Z
 image: "/images/tips-for-content-creators.png"
-categories: ["Job Seekers", "Digital Marketing", "Video Content"]
+categories: ["Digital Marketing", "Video Content"]
 author: "Forrest Smith"
-tags: ["social media", "digital marketing", "videos", "multimedia", "conversions", "leads", "CVs", "Resumes", "Job hunting"]
+tags: ["Social Media", "Digital Marketing", "Video & Multimedia", "Entrepreneurship & Career Growth"]
 draft: false
 ---
 We get it. Finding a job in today's economy can be a challenge. Even the best qualified candidates can be overlooked in the recruitment process, despite having all the necessary skills and qualifications. So how do you, as a job-seeker, differentiate yourself from other candidates? How do you stand out? The solution is to put together a CV (resume) that they can't ignore!

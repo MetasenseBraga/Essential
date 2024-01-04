@@ -4,9 +4,9 @@ meta_title: "Digital Marketing Strategies For TikTok"
 description: "In this article we introduce you to TikTok and provide simple digital marketing strategies for you to use."
 date: 2023-08-16 T09:00:00Z
 image: "/images/tiktok-phone-black.jpg"
-categories: ["Social Media", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["social media", "digital marketing", "tiktok"]
+tags: ["Social Media", "Digital Marketing"]
 draft: false
 ---
 
