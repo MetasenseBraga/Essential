@@ -4,9 +4,9 @@ meta_title: "How To Make Eye-Catching Videos For Social Media"
 description: "With social media videos, you can increase leads and conversions, and effectively capture your target audience and drive engagement. Here are some ways to create engaging videos on social media."
 date: 2023-08-16 T09:00:00Z
 image: "/images/youtube-phone.jpg"
-categories: ["social media", "Digital Marketing", "video content"]
+categories: ["Digital Marketing", "Video Content"]
 author: "Forrest Smith"
-tags: ["social media", "digital marketing", "videos", "multinedia", "conversions", "leads"]
+tags: ["Social Media", "Digital Marketing", "Video & Multimedia"]
 draft: false
 ---
 

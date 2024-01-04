@@ -6,7 +6,7 @@ date: 2023-10-31T09:00:00Z
 image: "/images/spooky-roundup.png"
 categories: ["Campaigns"]
 author: "Forrest Smith"
-tags: ["Halloween", "Digital Marketing", "Spooky Content"]
+tags: ["Digital Marketing", "Holiday Campaigns"]
 draft: false
 ---
 Today's the big, spooky day, Millennials!

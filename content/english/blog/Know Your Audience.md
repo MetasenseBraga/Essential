@@ -4,9 +4,9 @@ meta_title: "Digital Marketing Strategies For Millennials & Gen Z"
 description: "A guide to millennial marketing, targeting the desired market with digital marketing strategy. Useful tips for any business, aimed at the millennial and Gen Z generations."
 date: 2023-08-18T10:00:00Z
 image: "/images/know-your-audience.jpg"
-categories: ["Digital Marketing", "SMEs", “Social Media”]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["conversions", “tiktok”, “millennials”, "gen-z", "marketing strategy"]
+tags: ["Marketing & Strategies"]
 draft: false
 ---
 

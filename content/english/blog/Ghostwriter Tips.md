@@ -4,9 +4,9 @@ meta_title: "Ghostwriting Secrets: Crafting Hauntingly Good Content"
 description: "Uncover the secrets behind crafting hauntingly good content as a ghostwriter. From capturing the author's voice to mastering the art of storytelling, these tips will elevate your writing to ghostly greatness."
 date: 2023-10-24T07:30:00Z
 image: /images/ghostwriter-tips.png
-categories: ["Content Writing", "Ghostwriting"]
+categories: ["Content Writing"]
 author: "Forrest Smith"
-tags: ["ghostwriting", "content writing", "writing tips", "voice", "storytelling"]
+tags: ["Content Creation & Strategy", "Social Media"]
 draft: false
 ---
 As a ghostwriter, your role is to breathe life into the words of others while remaining unseen. You craft content that captures the author's voice and engages readers, all without taking the credit. In this blog post, we'll reveal the secrets behind crafting hauntingly good content as a ghostwriter.

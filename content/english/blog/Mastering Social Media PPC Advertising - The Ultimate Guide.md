@@ -4,9 +4,9 @@ meta_title: "Mastering Social Media PPC Advertising: The Ultimate Guide | Essent
 description: "Unlock the full potential of your social media PPC advertising campaigns. Explore strategies for major platforms, audience targeting, ad creation, and continuous optimization."
 date: 2023-10-09T12:00:00Z
 image: "/images/mastering-social-media-ppc-branding.png"
-categories: ["Digital Marketing", "Social Media Advertising"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["PPC Advertising", "Social Media Advertising", "Paid Social Advertising", "Digital Marketing", "Audience Targeting", "Ad Creation", "Budget Optimization", "A/B Testing", "Scaling Campaigns", "UK English"]
+tags: ["Social Media", "Analytics & Insights", "Digital Marketing", "Budget & Optimization", "Campaign Success"]
 draft: false
 ---
 

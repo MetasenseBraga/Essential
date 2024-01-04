@@ -6,7 +6,7 @@ date: 2023-10-09T04:00:00Z
 image: "/images/guide-to -crafting-a-winning-online-brand.png"
 categories: ["Digital Branding", "Millennial Entrepreneurship"]
 author: "Forrest Smith"
-tags: ["Digital Strategy", "Online Branding", "Millennial", "Entrepreneurs", "Triumph", "Data Analytics", "Engagement", "Content Marketing", "Brand Authenticity", "Innovation"]
+tags: ["Digital Marketing", "Entrepreneurship & Career Growth", "Analytics & Insights", "Content Creation & Strategy", "Brand & Branding", "Innovation & Trends"]
 draft: false
 ---
 
