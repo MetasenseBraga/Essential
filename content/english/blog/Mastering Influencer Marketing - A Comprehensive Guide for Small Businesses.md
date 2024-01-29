@@ -2,7 +2,7 @@
 title: "Mastering Influencer Marketing: A Comprehensive Guide for Small Businesses"
 meta_title: "Unlocking the Potential of Influencer Marketing: A Comprehensive Guide for Small Businesses"
 description: Discover how small businesses can leverage influencer marketing to enhance brand visibility, engage with their audience, and drive meaningful growth. Learn effective strategies and avoid common pitfalls with our comprehensive guide.
-date: 2024-01-26 T12:00:00Z
+date: 2024-01-29T12:00:00Z
 image: /images/Influencer marketing blog post.png
 categories:
   - Digital Marketing
