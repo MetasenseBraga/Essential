@@ -3,7 +3,7 @@
 title: "Affordable Digital Marketing Strategies for Startup Entrepreneurs with Limited Budgets"
 meta_title: "Affordable Digital Marketing Strategies for Startup Entrepreneurs | Essential Millennial"
 description: "Discover budget-friendly digital marketing tactics to propel your startup's growth. Explore expert tips and strategies tailored for entrepreneurs on a limited budget. Dive into Essential Millennial for actionable insights!"
-date: 2024-03-11 T09:00:00Z
+date: 2024-03-11T09:00:00Z
 image: "/images/Affordable Digital Marketing Strategies for Startup Entrepreneurs with Limited Budgets.png"
 categories: ["SMEs", "Digital Marketing"]
 author: "Forrest Smith"
