@@ -4,9 +4,9 @@ meta_title: "Is Facebook An Outdated Social Media Platform for Millennials?"
 description: "As one of the oldest and most popular social media platforms, is Facebook still worth using if you want to reach millennials?"
 date: 2023-08-17T12:00:00Z
 image: "/images/facebook-outdated.jpg"
-categories: ["SMEs", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: [“facebook”, “millennials”, "gen-z"]
+tags: ["Social Media"]
 draft: false
 ---
 

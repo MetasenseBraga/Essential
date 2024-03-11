@@ -4,9 +4,9 @@ meta_title: "Outdated Digital Marketing Strategies For Millennials and Gen Z"
 description: "Millennials and Gen Z all-but tune out the second they come across any form of marketed content. Here are some of the biggest mistakes you can make when marketing to Millennials and Gen Z."
 date: 2023-08-18T21:00:00Z
 image: "/images/outdated-marketing-strategies.jpg"
-categories: ["Digital Marketing", “Social Media”]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["conversions", “millennials”, "gen-z", "marketing strategy"]
+tags: ["Marketing & Strategies"]
 draft: false
 ---
 

@@ -4,9 +4,9 @@ meta_title: "EM Tutorials: Social Media Marketing & Paid Ads"
 description: "In this blog post we discuss paid social media advertising and provide tips for navigating this complicated marketing landscape."
 date: 2023-08-25T09:00:00Z
 image: "/images/social-media-paid-ads.png"
-categories: ["Social Media", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["Facebook", "Instagram", "Twitter", "LinkedIn", "TikTok", "small businesses"]
+tags: ["Social Media", "Small Business"]
 draft: false
 ---
 

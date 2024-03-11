@@ -4,9 +4,9 @@ meta_title: "Affordable Digital Marketing for Small Businesses"
 description: "Discover how Essential Millennial empowers small businesses with affordable digital marketing solutions. Compete effectively and thrive in the digital age."  
 date: 2023-09-30T04:00:00Z  
 image: "/images/embracing-AI-disruption.png"  
-categories: ["Content creators", "Digital Marketing", "Social Media"]  
+categories: [Content Creation, "Digital Marketing"]  
 author: "Forrest Smith"  
-tags: ["digital marketing", "email marketing", "Strategy", "Small business", "blog", "content"]  
+tags: ["Digital Marketing", "Marketing & Strategies", "Small Business"]  
 draft: false  
 ---
 

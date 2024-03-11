@@ -5,9 +5,9 @@ meta_title: "Creating Engaging Video Content for Social Media: A Step-by-Step Gu
 description: "Master the art of crafting compelling video content for social media. This step-by-step guide covers everything from ideation and filming to editing and posting to help you engage your audience effectively."
 date: 2023-10-10T12:00:00Z
 image: "/images/step-by-step-guide-to-creating-media.png"
-categories: ["Video Content", "Social Media Marketing", "Content Creation"]
+categories: ["Video Content", "Content Creation"]
 author: "Forrest Smith"
-tags: ["Video Content", "Social Media", "Content Creation", "Video Production", "Engagement", "Video Editing", "Content Marketing", "Essential Millennial"]
+tags: ["Video & Multimedia", "Social Media", "Content Creation & Strategy", "Content Creation & Strategy"]
 draft: false
 
 ---

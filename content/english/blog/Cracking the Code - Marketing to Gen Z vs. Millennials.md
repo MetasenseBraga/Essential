@@ -3,10 +3,10 @@ title: "Cracking the Code: Marketing to Gen Z vs. Millennials"
 date: 2023-09-17T06:00:00Z
 meta_title: "Understanding the differences between Millennials and Gen Z"
 description: "In our latest blog post, we look at some of the important differences between millennials and Gen Z and how it should inform your digital marketing strategy"
-categories: ["SMEs", "Digital Marketing", "Digital Marketing", "Video Content"]
+categories: ["Digital Marketing", "Video Content"]
 author: "Forrest Smith"
 image: "/images/cracking-the-code.png"
-tags: ["social media", "digital marketing", "videos", "leads", "sentiment"]
+tags: ["Social Media", "Digital Marketing", "Video & Multimedia", "Analytics & Insights"]
 draft: false
 ---
 Marketing has always been about understanding your audience and tailoring your strategies to meet their unique preferences and needs. Today, two of the most influential generations in the consumer market are Gen Z and Millennials. While they might seem similar at first glance, there are distinct differences that savvy marketers need to be aware of. In this blog post, we'll delve into the fascinating world of Gen Z and Millennials, comparing their preferences, values, and behaviours to help you develop an effective marketing strategy for each.

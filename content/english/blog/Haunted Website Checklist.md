@@ -4,9 +4,9 @@ meta_title: "Website Optimization: Exorcising Haunting Issues"
 description: "Is your website haunted by poor performance, SEO woes, or security issues? Uncover our checklist to exorcise these digital ghouls and ensure your website is in its best ghost-free form."
 date: 2023-10-25T09:00:00Z
 image: /images/haunted-website-checklist.png
-categories: ["Website Optimization", "Digital Marketing"]
+categories: ["Digital Marketing"]
 author: "Forrest Smith"
-tags: ["website optimization", "SEO", "security", "voice", "performance checklist"]
+tags: ["SEO & Website Optimization", "Social Media", "Campaign Success"]
 draft: false
 ---
 

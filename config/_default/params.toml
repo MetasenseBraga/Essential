@@ -53,10 +53,10 @@ show_categories = true
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Content", "Marketing"]
-description = "Essential Millennial Digital Marketing Agency"
+keywords = ["Digital Marketing Strategy", "Social Media Management", "Content Creation", "Video Marketing", "PPC Advertising", "SEO Services", "Email Marketing", "Graphic Design", "Web Development", "Branding and Marketing Strategies", "Content Strategy", "Customer Engagement"]
+description = "Essential Millennial: Digital Marketing Agency | Your strategic partner in digital marketing. Elevate your brand with expert services in SEO, social media management, video marketing, and more. Unlock growth with our tailored solutions."
 author = "essentialmillenial.com"
-image = "/images/og-image.png"
+image = "/images/meta.jpeg"
 
 
 # site verifications
