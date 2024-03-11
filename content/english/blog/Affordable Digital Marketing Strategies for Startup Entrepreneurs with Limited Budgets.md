@@ -49,7 +49,7 @@ Among the various digital marketing methods, some require minimal financial inve
 
 ***The Intersection of Creator Economy Trends and Digital Marketing: Navigating the Future** Stay ahead of the curve by exploring the intersection of creator economy trends and digital marketing in our insightful guide. Discover how leveraging creator content can revolutionise your marketing strategy and propel your business into the future. [Read more](https://essentialmillennial.com/blog/the-intersection-of-creator-economy-trends-and-digital-marketing-navigating-the-future/)*
 
-! [Tips for Digital Marketing with no budget blog graphic.png](/images/Tips for Digital Marketing with no budget.png)
+! [Tips for Digital Marketing with no budget](/images/Tips for Digital Marketing with no budget.png)
 ## How do I market my startup with no money?
 Marketing a startup with no money requires creativity, resourcefulness, and a willingness to leverage free or low-cost strategies. Here are some tactics for marketing a startup with no money:
 
